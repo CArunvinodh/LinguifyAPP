@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+__pycache__/
+*.pyc
+.env
+*.csv
+*.json
+# Add other files you want to ignore
